@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ESP12_DEV_01.PcbDoc   29/08/2015  22:25:12
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP12_DEV_01.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          44               7.71 Inch (195.73 mm)
+T2        23.62mil (0.59995mm)     Round          2                0.07 Inch (1.90 mm)
+T3        29.53mil (0.75006mm)     Round          3                0.40 Inch (10.16 mm)
+T4        31.5mil (0.8001mm)       Round          14               2.75 Inch (69.79 mm)
+T5        35.43mil (0.89992mm)     Round          10               0.93 Inch (23.62 mm)
+T6        37.4mil (0.94996mm)      Round          22               2.61 Inch (66.35 mm)
+T7        39.37mil (1mm)           Round          2                0.10 Inch (2.54 mm)
+T8        125.98mil (3.19989mm)    Round          4         NPTH   4.49 Inch (114.00 mm)
+---------------------------------------------------------------------------
+Totals                                            101              19.06 Inch (484.09 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
