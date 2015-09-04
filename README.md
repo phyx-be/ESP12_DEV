@@ -3,7 +3,7 @@ A development board for the ESP12 and ESP12E WiFi modules. Featuring some useful
 
 ## Rev 00
 
-![ESP12_DEV_00](https://raw.githubusercontent.com/phyx-be/ESP12_DEV/ESP12_DEV_00/3D_VIEW.png)
+![ESP12_DEV_00](https://raw.githubusercontent.com/phyx-be/ESP12_DEV/master/ESP12_DEV_00/3D_VIEW.png)
 
 Initial board version with 3.3V LDO and 5V LDO. 
 #### Known issues : 
@@ -12,7 +12,7 @@ Initial board version with 3.3V LDO and 5V LDO.
 
 ## Rev 01
 
-![ESP12_DEV_01](https://raw.githubusercontent.com/phyx-be/ESP12_DEV/ESP12_DEV_01/3D_VIEW.png)
+![ESP12_DEV_01](https://raw.githubusercontent.com/phyx-be/ESP12_DEV/master/ESP12_DEV_01/3D_VIEW.png)
 
 - Replaced the 3.3V LDO with a [TPS562209](http://www.ti.com/product/tps562209) based switching power supply to reduce power dissipation.
 - Added more capacitors to increase stability
